@@ -1,4 +1,4 @@
 homepage: "https://github.com/jegaljinu/gtm_template_1"
 versions:
-  - sha: "55b451c9b76bc4516a93a3c0161d2cde393d42aaced0ac03d7da61cfd2be0b28" # Will be updated by the build script
+  - sha: "373d38f96dfda5133cd8e9af75b915102e2ddc9f" # Will be updated by the build script
     changeNotes: "Initial release."
