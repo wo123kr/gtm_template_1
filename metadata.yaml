@@ -1,0 +1,4 @@
+homepage: "https://github.com/jegaljinu/gtm_template_1"
+versions:
+  - sha: "" # Will be updated by the build script
+    changeNotes: "Initial release."
