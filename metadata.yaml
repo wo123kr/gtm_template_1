@@ -1,4 +1,4 @@
-homepage: "https://github.com/jegaljinu/gtm_template_1"
+homepage: "https://github.com/wo123kr/gtm_template_1"
 versions:
   - sha: "373d38f96dfda5133cd8e9af75b915102e2ddc9f" # Will be updated by the build script
     changeNotes: "Initial release."
